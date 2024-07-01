@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lesson10ASP\\PqnLesson11Asp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|e:\\lesson10asp\\pqnlesson11asp\\pqnlesson11asp\\views\\pqntaikhoans\\pqnlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|solutionrelative:pqnlesson11asp\\views\\pqntaikhoans\\pqnlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|e:\\lesson10asp\\pqnlesson11asp\\pqnlesson11asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|solutionrelative:pqnlesson11asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|e:\\lesson10asp\\pqnlesson11asp\\pqnlesson11asp\\controllers\\pqnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|solutionrelative:pqnlesson11asp\\controllers\\pqnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|e:\\lesson10asp\\pqnlesson11asp\\pqnlesson11asp\\controllers\\pqntaikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|solutionrelative:pqnlesson11asp\\controllers\\pqntaikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|e:\\lesson10asp\\pqnlesson11asp\\pqnlesson11asp\\models\\pqnmodel115.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|solutionrelative:pqnlesson11asp\\models\\pqnmodel115.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|e:\\lesson10asp\\pqnlesson11asp\\pqnlesson11asp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C5426C-3EDA-4CF6-92D2-82B559C3749E}|PqnLesson11Asp\\PqnLesson11Asp.csproj|solutionrelative:pqnlesson11asp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pqnlogin.cshtml",
+              "DocumentMoniker": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Views\\pqntaikhoans\\Pqnlogin.cshtml",
+              "RelativeDocumentMoniker": "PqnLesson11Asp\\Views\\pqntaikhoans\\Pqnlogin.cshtml",
+              "ToolTip": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Views\\pqntaikhoans\\Pqnlogin.cshtml",
+              "RelativeToolTip": "PqnLesson11Asp\\Views\\pqntaikhoans\\Pqnlogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T14:27:24.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pqntaikhoansController.cs",
+              "DocumentMoniker": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Controllers\\pqntaikhoansController.cs",
+              "RelativeDocumentMoniker": "PqnLesson11Asp\\Controllers\\pqntaikhoansController.cs",
+              "ToolTip": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Controllers\\pqntaikhoansController.cs",
+              "RelativeToolTip": "PqnLesson11Asp\\Controllers\\pqntaikhoansController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:18:49.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PqnHomeController.cs",
+              "DocumentMoniker": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Controllers\\PqnHomeController.cs",
+              "RelativeDocumentMoniker": "PqnLesson11Asp\\Controllers\\PqnHomeController.cs",
+              "ToolTip": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Controllers\\PqnHomeController.cs",
+              "RelativeToolTip": "PqnLesson11Asp\\Controllers\\PqnHomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:17:32.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PqnModel115.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Models\\PqnModel115.edmx",
+              "RelativeDocumentMoniker": "PqnLesson11Asp\\Models\\PqnModel115.edmx",
+              "ToolTip": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Models\\PqnModel115.edmx [Diagram1]",
+              "RelativeToolTip": "PqnLesson11Asp\\Models\\PqnModel115.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-01T14:10:08.903Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PqnLesson11Asp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PqnLesson11Asp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T14:06:30.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PqnLesson11Asp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\lesson10ASP\\PqnLesson11Asp\\PqnLesson11Asp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PqnLesson11Asp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:45:58.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

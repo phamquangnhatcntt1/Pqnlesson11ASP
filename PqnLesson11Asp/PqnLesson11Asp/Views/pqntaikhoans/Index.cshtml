@@ -1,0 +1,69 @@
+﻿@model IEnumerable<PqnLesson11Asp.Models.pqntaikhoan>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PqnUseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PqnPassword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PqnFullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PqnAge)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PqnEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PqnPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PqnStatus)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PqnUseName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PqnPassword)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PqnFullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PqnAge)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PqnEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PqnPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PqnStatus)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PqnId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PqnId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PqnId })
+        </td>
+    </tr>
+}
+
+</table>

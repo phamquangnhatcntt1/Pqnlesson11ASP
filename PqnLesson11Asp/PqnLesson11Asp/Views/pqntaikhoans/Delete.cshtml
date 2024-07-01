@@ -1,0 +1,80 @@
+﻿@model PqnLesson11Asp.Models.pqntaikhoan
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>pqntaikhoan</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnUseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnUseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnAge)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnAge)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnStatus)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,74 @@
+﻿@model PqnLesson11Asp.Models.pqntaikhoan
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>pqntaikhoan</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnUseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnUseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnAge)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnAge)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PqnStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PqnStatus)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PqnId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
